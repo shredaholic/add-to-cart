@@ -4,6 +4,7 @@ html, body {
   font-family: 'Rubik', sans-serif;
   background-color: #1591EA; 
   color: #0e282c;
+  -webkit-user-select : none;
   user-select: none;
 }
 
